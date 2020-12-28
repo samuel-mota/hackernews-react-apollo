@@ -1,3 +1,5 @@
+*** bug when clicking on upvote more than once 
+
 # Tutorial
 https://www.howtographql.com/react-apollo/0-introduction/
 
